@@ -1,4 +1,4 @@
-# Betting App
+# Trading App
 
 A C++ command-line application that simulates a cryptocurrency trading environment. Users can log in, view live order book data, place bids and asks, and track their wallet balance. The app parses real market data from CSV files, renders candlestick charts, and manages transaction history — built as an object-oriented programming project using core OOP principles.
 
